@@ -1,5 +1,19 @@
 # 🏙️ Smart City Intelligence Dashboard
 
+## 📖 Description
+
+The **Smart City Intelligence Dashboard** is an end-to-end, AI-driven platform designed to
+monitor, analyze, and forecast critical urban conditions in real time.
+
+This project integrates **Computer Vision, Deep Learning, Time Series Forecasting, and NLP**
+to address real-world smart city challenges such as road safety, traffic congestion,
+air quality monitoring, crowd management, and citizen grievance analysis.
+
+The system provides an **interactive Streamlit dashboard** that visualizes detections,
+predictions, and analytical insights, helping city authorities and decision-makers
+take **data-driven actions** to improve urban safety, sustainability, and quality of life.
+
+
 An end-to-end **AI-powered Smart City platform** built using  
 Computer Vision, Deep Learning, Time Series Forecasting, NLP, and Cloud Deployment.
 
